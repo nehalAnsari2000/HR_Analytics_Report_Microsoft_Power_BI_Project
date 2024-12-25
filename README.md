@@ -1,1 +1,4 @@
-# HR_Analytics_Report_Microsoft_Power_BI_Project
+HR Analytics Report (Employee Attrition Analysis)
+
+
+This project analyzes employee attrition using a Power BI dashboard to identify key factors contributing to employee turnover. The dataset was cleaned, transformed, and enriched with calculated measures such as the attrition rate using DAX. The dashboard visualizes insights on attrition by age, education, salary, job roles, and years at the company. Key findings highlight high attrition among low-salary employees, early-career attrition, and challenges in specific roles. The project also proposes actionable solutions, such as competitive compensation, career development initiatives, and targeted retention strategies, to address these issues. This repository includes the Power BI report and a detailed presentation document summarizing the findings and recommendations.
